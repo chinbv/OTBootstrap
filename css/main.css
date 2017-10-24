@@ -1,34 +1,35 @@
 
 /* for social media icons */
 /* Style all font awesome icons */
-.fa {
-    padding: 20px;
+.widget .fa {
+    padding: 12px;
     font-size: 30px;
     width: 50px;
+    height: 50px;
     text-align: center;
 	text-decoration: none;
 	border-radius: 50%;
 }
 
 /* Add a hover effect if you want */
-.fa:hover {
+.widget .fa:hover {
     opacity: 0.7;
 }
 
 /* Facebook */
-.fa-facebook {
+.widget .fa-facebook {
     background: #3B5998;
     color: white;
 }
 
 /* Twitter */
-.fa-twitter {
+.widget .fa-twitter {
     background: #55ACEE;
     color: white;
 }
 
 /* Instagram */
-.fa-instagram {
+.widget .fa-instagram {
     background: #125688;
     color: white;
 }
